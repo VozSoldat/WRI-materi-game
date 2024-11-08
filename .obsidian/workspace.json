@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pengenalan/pengenalan-game-development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "pengenalan-game-development"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pengenalan/pengenalan-game-development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for pengenalan-game-development"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "pengenalan/pengenalan-game-development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from pengenalan-game-development"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "pengenalan/pengenalan-game-development.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of pengenalan-game-development"
             }
           },
           {
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4b0117f59f042c5",
+  "active": "0c0737882e835799",
   "lastOpenFiles": [
-    "pengenalan-game-development.md.md",
-    "README.md",
+    "pengenalan/attachments/Pasted image 20241108074124.png",
     "pengenalan/pengenalan-game-development.md",
+    "pengenalan/attachments/~asted image 20241108074124.tmp",
+    "pengenalan/attachments/Pasted image 20241108074122.png",
+    "pengenalan/attachments/Pasted image 20241108074118.png",
+    "pengenalan/attachments",
+    "README.md",
+    "pengenalan-game-development.md.md",
     "pengenalan"
   ]
 }
