@@ -9,7 +9,7 @@ Semangat!!!
 ## 📃 Index
 Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar pengembangan game. Tenang saja, kita akan menjelajahi proses ini langkah demi langkah.
 
-- Pengenalan game development ... [klik](pengenalan-game-development.md#Pengenalan%20Game%20Development)
+- Pengenalan game development ... [klik](pengenalan/pengenalan-game-development.md#Pengenalan%20Game%20Development)
 - Pembuatan game desain ... 
 
 ## 🤓 Kontributor
