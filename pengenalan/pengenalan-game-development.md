@@ -1,5 +1,5 @@
 # 🤔 Pengenalan Game Development
-![](attachments/Pasted%20image%2020241108092556.png)
+
 
 Ada yang tahu apa *sih* game development itu?
 
@@ -8,3 +8,12 @@ Ada yang tahu apa *sih* game development itu?
 > Aktivitas pengembangan permainan yang meliputi perencanaan, perancangan, pembuatan, dan perilisan suatu permainan.
 
 Jadi intinya, gamedev itu adalah kegiatan membuat game dari perencanaan sampai gamenya dapat dimainkan oleh player. 
+
+## Desain Game
+Sebelum membuat game, kamu--sebagai developer--harus bikin rancangan atau desain dari game. 
+
+> [!IMPORTANT]
+> #### Game Design
+> Desain atau rancangan **lengkap** suatu game, meliputi judul game, tema, genre, mekanika dan dinamika permainan, target audiensi, art, dan masih banyak lagi. 
+
+
