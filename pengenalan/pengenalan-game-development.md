@@ -1,5 +1,5 @@
 # 🤔 Pengenalan Game Development
-![Pasted image 20241108074118](Pasted%20image%2020241108074118.png)
+![Pasted image 20241108074118](attachments/Pasted%20image%2020241108074118.png)
 
 <img src="attachments/Pasted%20image%2020241108074118.png">
 
