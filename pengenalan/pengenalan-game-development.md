@@ -1,5 +1,5 @@
 # 🤔 Pengenalan Game Development
-
+![](attachments/Pasted%20image%2020241108100435.png)
 
 Ada yang tahu apa *sih* game development itu?
 
