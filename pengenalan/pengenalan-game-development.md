@@ -7,8 +7,13 @@ Ada yang tahu apa *sih* game development itu?
 > #### Game Development
 > Aktivitas pengembangan permainan yang meliputi perencanaan, perancangan, pembuatan, dan perilisan suatu permainan.
 
-Jadi intinya, gamedev itu adalah kegiatan membuat game dari perencanaan sampai keadaan game dapat dimainkan oleh player. 
+Jadi intinya, gamedev itu adalah kegiatan membuat game dari perencanaan sampai keadaan game dapat dimainkan oleh player.
 
+Orang yang men-developt game bernama **game developer**.
+## Role dalam Game Development
+Kamu mungkin sudah kenal dengan front-end, back-end, fullstack, dan UIUX di bidang web developer. Dalam membuat game, kamu juga perlu membagi-bagi peran pengembangan dengan teman-temanmu. 
+
+Ingat! Dalam game development, ada banyak sekali bidang keilmuan yang diperlukan dalam sebuah pengembangan. Walau begitu, ada 3 role penting dalam game development.
 ## Desain Game
 Sebelum membuat game, kamu--sebagai developer--harus bikin rancangan atau desain dari game yang kamu mau buat. 
 
