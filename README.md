@@ -1,4 +1,6 @@
 # 🔬⚙️ WRI: Materi Miniclass Game 🎮🎮🎮
+![leo](https://media1.tenor.com/m/--3u6vGb40gAAAAC/leonardo-dicaprio-clapping.gif)
+
 Halo, rek! Selamat datang di Miniclass Game Development WRI. 
 
 Sebelum kamu membaca materi game,<br>

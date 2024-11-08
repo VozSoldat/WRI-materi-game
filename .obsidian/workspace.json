@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pengenalan/pengenalan-game-development.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pengenalan-game-development"
+              "title": "README"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pengenalan/pengenalan-game-development.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pengenalan-game-development"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pengenalan/pengenalan-game-development.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pengenalan-game-development"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pengenalan/pengenalan-game-development.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of pengenalan-game-development"
+              "title": "Outline of README"
             }
           },
           {
@@ -191,9 +191,9 @@
   },
   "active": "b6f6ad56aa227149",
   "lastOpenFiles": [
+    "pengenalan/pengenalan-game-development.md",
     "README.md",
     "2024-11-08.md",
-    "pengenalan/pengenalan-game-development.md",
     "pengenalan/attachments/Pasted image 20241108100435.png",
     "Untitled.canvas",
     "pengenalan/attachments/Pasted image 20241108092556.png",
