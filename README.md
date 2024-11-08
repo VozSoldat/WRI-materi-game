@@ -8,9 +8,12 @@ Notabene, game development sering dianggap sulit gara-gara hal tersebut 🧢. Ta
 Semangat!!!
 ## 📃 Index
 Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar pengembangan game. Tenang saja, kita akan menjelajahi proses ini langkah demi langkah.
-
+- Bahan ajar miniclass ... [klik](#📖%20Bahan%20Ajar%20Miniclass)
+- Referensi luar ... [klik](#Referensi%20Luar)
+## 📖 Bahan Ajar Miniclass
 - Pengenalan game development ... [klik](pengenalan/pengenalan-game-development.md#Pengenalan%20Game%20Development)
 - Pembuatan game desain ... 
-
+## 🌐 Referensi Luar
+- Unity Learn ... [klik](https://learn.unity.com/)
 ## 🤓 Kontributor
 - 
