@@ -185,14 +185,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "b6f6ad56aa227149",
   "lastOpenFiles": [
-    "pengenalan/pengenalan-game-development.md",
     "README.md",
+    "pengenalan/pengenalan-game-development.md",
     "2024-11-08.md",
     "pengenalan/attachments/Pasted image 20241108100435.png",
     "Untitled.canvas",
