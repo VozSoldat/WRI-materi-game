@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pengenalan/pengenalan-game-development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "pengenalan-game-development"
             }
           },
           {
@@ -190,10 +190,11 @@
   },
   "active": "b6f6ad56aa227149",
   "lastOpenFiles": [
+    "pengenalan/attachments/Pasted image 20241112075501.png",
+    "README.md",
     "pengenalan/pengenalan-game-development.md",
     "pengenalan/attachments/Pasted image 20241112072104.png",
     "pengenalan/attachments/Pasted image 20241112070901.png",
-    "README.md",
     "2024-11-08.md",
     "pengenalan/attachments/Pasted image 20241108100435.png",
     "Untitled.canvas",

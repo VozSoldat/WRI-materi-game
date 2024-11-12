@@ -31,7 +31,11 @@ Kamu juga harus bisa berkomunikasi dengan baik dengan **game designer** dan **ar
 >**Tantangan bagi Programmer**: Kamu akan sering menghadapi _bug_ dan _error_ di sepanjang jalan, jadi jangan malas debugging.
 
 ### Artist
+![500](attachments/Pasted%20image%2020241112075501.png)
 
+**Artist** dalam game development bertanggung jawab atas tampilan visual dari game yang akan dimainkan, meliputi desain karakter, lingkungan, hingga elemen UI. Ada berbagai jenis artist dalam tim game development, di antaranya **2D artist** yang membuat ilustrasi karakter atau **3D artist** yang memodelkan objek dalam bentuk tiga dimensi.
+
+Sebagai artist, kamu akan bekerja erat dengan **game designer** untuk memastikan estetika visual sesuai dengan konsep yang diinginkan, dan juga dengan **programmer** untuk memastikan aset grafis yang kamu buat bisa diimplementasikan dengan baik dalam _engine_ game.
 
 sumber[^1]
 ## Desain Game
