@@ -1,5 +1,5 @@
 # 🔬⚙️ WRI: Materi Miniclass Game 🎮🎮🎮
-![leo](https://media1.tenor.com/m/--3u6vGb40gAAAAC/leonardo-dicaprio-clapping.gif)
+![leo|400](https://media1.tenor.com/m/--3u6vGb40gAAAAC/leonardo-dicaprio-clapping.gif)
 
 Halo, rek! Selamat datang di Miniclass Game Development WRI. 
 
@@ -14,7 +14,8 @@ Kalau kamu membaca ini, berarti kamu tertarik untuk mempelajari dasar-dasar peng
 - Referensi luar ... [klik](##🌐%20Referensi%20Luar)
 ## 📖 Bahan Ajar Miniclass
 - Pengenalan game development ... [klik](pengenalan/pengenalan-game-development.md#Pengenalan%20Game%20Development)
-- Pembuatan game desain ... 
+	- Peran-peran dalam game development ... [klik](pengenalan/pengenalan-game-development.md#Role%20dalam%20Game%20Development)
+	- Pembuatan game desain ... 
 ## 🌐 Referensi Luar
 - Unity Learn ... [klik](https://learn.unity.com/)
 ## 🤓 Kontributor
