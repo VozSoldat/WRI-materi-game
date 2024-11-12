@@ -22,7 +22,8 @@ Kamu mungkin sudah kenal dengan front-end, back-end, fullstack, dan UIUX di bida
 
 Ingat! Dalam game development, ada banyak sekali bidang keilmuan yang diperlukan dalam sebuah pengembangan. Walau begitu, ada 3 role penting dalam game development.
 ### Game Designer
-![500](attachments/Pasted%20image%2020241112070901.png)
+<img src="attachments/Pasted%20image%2020241112070901.png">
+![](attachments/Pasted%20image%2020241112070901.png)
 
 Dalam game development, **designer** bukanlah ❌ orang yang menggambar/mendesain UI atau ilustrasi. Desainer adalah orang yang membuat desain atau rancangan sebuah game, meliputi judul game, tema, genre, mekanika dan dinamika permainan, target audiensi, art, dan masih banyak lagi.
 
