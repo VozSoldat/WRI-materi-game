@@ -11,9 +11,11 @@ Jadi intinya, gamedev itu adalah kegiatan membuat game dari perencanaan sampai k
 
 Orang yang men-developt game bernama **game developer**.
 ## Game Development di Indonesia
+<div display=flex>
 <img src="https://cdn.gamerwk.com/2024/10/IGDX-2024-750x375.jpg" height=200rem height=200rem>
 <img src="https://img.itch.zone/aW1nLzE3Njc1NDI0LnBuZw==/original/uyGbNu.png" height=200rem>
 <img src="https://pbs.twimg.com/media/GaFqAtnbAAAs1h6?format=jpg&name=900x900" height=200rem>
+</div>
 
 ## Role dalam Game Development
 Kamu mungkin sudah kenal dengan front-end, back-end, fullstack, dan UIUX di bidang web developer. Dalam membuat game, kamu juga perlu membagi-bagi peran pengembangan dengan teman-temanmu. 

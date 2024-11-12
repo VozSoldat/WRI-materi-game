@@ -15,7 +15,7 @@
               "state": {
                 "file": "pengenalan/pengenalan-game-development.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "pengenalan-game-development"
