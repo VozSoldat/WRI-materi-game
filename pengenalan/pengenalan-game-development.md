@@ -11,7 +11,7 @@ Jadi intinya, gamedev itu adalah kegiatan membuat game dari perencanaan sampai k
 
 Orang yang men-developt game bernama **game developer**.
 ## Game Development di Indonesia
-![300](https://i0.wp.com/www.gimbot.com/wp-content/uploads/2024/10/Youtube-Stuff-10.png?fit=1200%2C675&ssl=1)
+![300](https://i0.wp.com/www.gimbot.com/wp-content/uploads/2024/10/Youtube-Stuff-10.png?fit=1200%2C675&ssl=1 | width=100)
 ![300](attachments/Pasted%20image%2020241112081326.png)
 ![300](attachments/Pasted%20image%2020241112081431.png)
 ## Role dalam Game Development
